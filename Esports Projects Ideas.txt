@@ -1,0 +1,7 @@
+Gambling
+ - Macro Level: use percentage of different cards across all players, tiered by trophy count
+ - Micro Level: in-game usage, game length, etc
+Clash Royale
+ - Scraper - https://docs.royaleapi.com/#/
+ - Opponent deck analysis to see if I am supposed to be losing and should stop playing
+ - Check if card usage differs between double elixir and normal
